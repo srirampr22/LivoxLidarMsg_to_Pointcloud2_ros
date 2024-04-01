@@ -1,4 +1,4 @@
-# `livox2pointcloud`
+# `LivoxLidarMsg_to_Pointcloud2_ros`
 
 > Converts `livox_ros_driver/CustomMsg` from official ROS livox driver to `sensor_msgs/PointCloud2` for easy visualization in rviz
 
